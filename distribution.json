@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466148,
             "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
           },
           "subModules": [
             {
